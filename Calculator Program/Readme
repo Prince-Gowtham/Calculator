@@ -1,0 +1,17 @@
+
+#################################################################
+#   DATE :12-03-2022. 						#
+#   AUTHOR NAME: GOWTHAM S B.E(CSE).				#
+#   PROJECT :CALCULATOR.					#
+#   TOOLS : VIM EDITOR and GCC(5.4.0 20160609).			#
+#################################################################
+
+Description:-
+	1)Create headerfile for using man pages(scanf and printf prototypes) and declare the functions.
+	2)Create c-file for addition,subtration,multiplication and division etc....
+	3)Create a main file includes headerfle and c file.
+	4)In this case compiling time we need to save the temp files using(--save-temps)command and store the .o files(object files).
+	5)In ubentu 16.04 lts have default archve manger called ar(man ar).
+	6)Using ar command we are creating the own library called calculator and save .a (ar -crs libname.a  list of .o files).
+	7)If we are compile and execute the .a file.
+	8)Kindly your reference i attached my files in to the files. 
